@@ -1,0 +1,8 @@
+terraform init
+terraform plan
+terraform apply
+terraform apply --
+terraform distory
+
+terraform state list
+terraform state show RESOURCE
